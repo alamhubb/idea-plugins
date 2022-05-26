@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.socialuni.ideaplugins.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.socialuni.ideaplugins.MyBundle
 
 class MyApplicationService {
 
